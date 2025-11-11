@@ -62,13 +62,13 @@ Each factory has **9 machine types** sending logs every 10 minutes during **May 
 ![Dashboard Screenshot](dashboard.png)
 
 **Project File:** 
-[Download Tableau Project (.twb)](Daikibo_Telemetry_Analysis.twb)
+[Download Tableau Project (.twb)](Book1.twb)
 
 
 ---
 
 ## 🏆 Certificate
- Deloitte Forage internship, certificate here as [View Deloitte Forage Certificate (.pdf)](Certificate.pdf)
+ Deloitte Forage internship, certificate here as [View Deloitte Forage Certificate (.pdf)](deloitte-cert.pdf)
   
 
 ---
